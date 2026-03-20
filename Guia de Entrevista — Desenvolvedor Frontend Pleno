@@ -1,0 +1,203 @@
+# 🎯 Guia de Entrevista — Desenvolvedor Frontend Pleno
+
+## 🧩 1. Me conta sobre você
+
+**Resposta:**
+
+Sou desenvolvedor frontend pleno com mais de 4 anos de experiência construindo aplicações web de alta performance com React, TypeScript e Vue.js.
+
+Ao longo da minha trajetória, atuei muito próximo de produto, desenvolvendo interfaces escaláveis e integrando APIs REST com foco em performance e experiência do usuário.
+
+Na Blips, liderei iniciativas de otimização baseadas em Web Vitals, reduzindo o tempo de carregamento em cerca de 30%. Também atuei na definição de padrões arquiteturais em aplicações React e na estruturação de pipelines de CI/CD com GitHub Actions, reduzindo falhas de deploy em 40%.
+
+Antes disso, tive uma experiência mais full stack na Prothera, trabalhando com Vue.js no frontend e Java no backend, o que me deu uma visão mais completa de arquitetura.
+
+Hoje, me considero um desenvolvedor que equilibra qualidade técnica, impacto no produto e evolução contínua.
+
+**💡 Dica de recrutador:**
+- Foque em impacto + tecnologia + resultado  
+- Evite histórias longas  
+- Mostre senioridade logo no início  
+
+---
+
+## 🧩 2. Conte um desafio técnico
+
+**Resposta:**
+
+Na Blips, enfrentávamos um problema de falta de visibilidade das versões em produção, o que gerava risco de deploy incorreto.
+
+Assumi a responsabilidade de resolver isso de ponta a ponta. Estruturei pipelines no GitHub Actions para versionamento automático e integrei essa informação ao frontend via API do GitHub.
+
+Com isso, garantimos que a versão exibida estivesse sempre alinhada ao ambiente produtivo, reduzindo erros e melhorando a confiabilidade do processo de deploy.
+
+**💡 Dica:**
+Use estrutura:
+- Problema  
+- Ação  
+- Resultado  
+
+---
+
+## 🧩 3. Fale de um conflito técnico
+
+**Resposta:**
+
+Tivemos uma divergência sobre como estruturar a integração com APIs no frontend.
+
+Parte do time fazia chamadas diretamente nos componentes, o que poderia gerar acoplamento e dificultar manutenção.
+
+Propus a criação de uma camada de serviços para centralizar essas integrações, padronizar erros e melhorar reutilização.
+
+Apresentei os impactos técnicos e conseguimos chegar em um consenso. A solução foi adotada e facilitou bastante a evolução do sistema.
+
+**💡 Dica:**
+- Mostre colaboração  
+- Evite “eu estava certo”  
+- Foque em consenso  
+
+---
+
+## 🧩 4. Qual seu ponto de melhoria?
+
+**Resposta:**
+
+Tenho trabalhado para aprofundar ainda mais meu conhecimento em arquitetura backend e sistemas distribuídos.
+
+Apesar de já ter experiência com Java e APIs REST, venho estudando microsserviços, escalabilidade e boas práticas de design de sistemas.
+
+Acredito que isso me ajuda a tomar decisões melhores no frontend, considerando o sistema como um todo.
+
+**💡 Dica:**
+- Mostre evolução ativa  
+- Evite fraquezas críticas  
+
+---
+
+## 🧩 5. Por que deveríamos te contratar?
+
+**Resposta:**
+
+Acredito que posso agregar principalmente por três pontos:
+
+1. Experiência prática em aplicações reais com foco em performance e escalabilidade  
+2. Visão orientada a produto  
+3. Proatividade em melhorar o ambiente técnico  
+
+Ao longo da minha experiência, gerei impactos concretos como redução de tempo de carregamento, falhas de deploy e aumento de produtividade do time.
+
+**💡 Dica:**
+Recrutador quer saber:
+👉 você resolve problema ou só executa?
+
+---
+
+## 🧩 6. Como você garante qualidade?
+
+**Resposta:**
+
+Trabalho com qualidade em múltiplas camadas:
+
+- Arquitetura bem definida  
+- Tipagem forte com TypeScript  
+- ESLint e boas práticas  
+- Testes automatizados (Cypress)  
+- Code review  
+
+Sempre penso também na manutenção futura da solução.
+
+**💡 Dica:**
+Combine:
+- Processo + Ferramentas + Cultura  
+
+---
+
+## 🧩 7. Por que saiu do último emprego?
+
+**Resposta:**
+
+Saí da Blips em um contexto de reestruturação da empresa após a entrada de um novo investidor, que resultou em uma redução significativa do quadro, inclusive em times estratégicos.
+
+Durante o período em que estive lá, consegui contribuir com melhorias relevantes em performance, arquitetura e processos.
+
+Agora estou buscando uma nova oportunidade onde eu possa continuar evoluindo tecnicamente e gerar impacto consistente no produto.
+
+**💡 Dica CRÍTICA:**
+- Nunca fale mal da empresa  
+- Mostre maturidade  
+- Mostre crescimento  
+
+---
+
+## 🧩 8. Como você se mantém atualizado?
+
+**Resposta:**
+
+Busco aprendizado contínuo de forma prática.
+
+Acompanho documentações oficiais, principalmente de React e TypeScript, e aplico o que aprendo em projetos reais.
+
+Acredito que aprendizado só faz sentido quando gera impacto nas soluções.
+
+**💡 Dica:**
+Evite:
+❌ “faço cursos”  
+Prefira:
+✅ “aplico na prática”  
+
+---
+
+## 🧩 9. Pergunta para o entrevistador
+
+**Sugestão:**
+
+Quais são hoje os principais desafios técnicos do time, principalmente em relação à arquitetura e escalabilidade?
+
+**💡 Dica:**
+Pergunta boa = diferencial forte  
+
+---
+
+## 🧩 10. Expectativa salarial
+
+**Resposta:**
+
+Com base no meu nível de experiência e no mercado, minha expectativa está na faixa entre R$ X e R$ Y.
+
+Estou aberto a conversar considerando o contexto da vaga, benefícios e crescimento.
+
+**💡 Dica:**
+- Nunca seja rígido  
+- Mostre flexibilidade  
+
+---
+
+# 🧠 Resumo Estratégico
+
+## 🔥 Pontos fortes
+- Clareza técnica  
+- Resultados mensuráveis  
+- Boa comunicação  
+- Perfil de pleno forte  
+
+## ⚠️ Pontos de melhoria
+- Melhorar storytelling  
+- Falar mais de impacto de negócio  
+- Reforçar protagonismo técnico  
+
+---
+
+# 🚀 Frases que elevam seu nível
+
+Use mais:
+
+- “Assumi responsabilidade…”  
+- “Liderei a iniciativa…”  
+- “Gerei impacto no produto…”  
+
+---
+
+# 🎯 Regra de Ouro
+
+> Não é sobre saber mais tecnologia.  
+> É sobre mostrar impacto, clareza e maturidade.
